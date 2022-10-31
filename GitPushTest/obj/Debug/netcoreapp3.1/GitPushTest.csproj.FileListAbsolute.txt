@@ -1,0 +1,14 @@
+C:\Users\cgwhi\repos\GitPushTest\GitPushTest\bin\Debug\netcoreapp3.1\GitPushTest.exe
+C:\Users\cgwhi\repos\GitPushTest\GitPushTest\bin\Debug\netcoreapp3.1\GitPushTest.deps.json
+C:\Users\cgwhi\repos\GitPushTest\GitPushTest\bin\Debug\netcoreapp3.1\GitPushTest.runtimeconfig.json
+C:\Users\cgwhi\repos\GitPushTest\GitPushTest\bin\Debug\netcoreapp3.1\GitPushTest.runtimeconfig.dev.json
+C:\Users\cgwhi\repos\GitPushTest\GitPushTest\bin\Debug\netcoreapp3.1\GitPushTest.dll
+C:\Users\cgwhi\repos\GitPushTest\GitPushTest\bin\Debug\netcoreapp3.1\GitPushTest.pdb
+C:\Users\cgwhi\repos\GitPushTest\GitPushTest\obj\Debug\netcoreapp3.1\GitPushTest.csproj.AssemblyReference.cache
+C:\Users\cgwhi\repos\GitPushTest\GitPushTest\obj\Debug\netcoreapp3.1\GitPushTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgwhi\repos\GitPushTest\GitPushTest\obj\Debug\netcoreapp3.1\GitPushTest.AssemblyInfoInputs.cache
+C:\Users\cgwhi\repos\GitPushTest\GitPushTest\obj\Debug\netcoreapp3.1\GitPushTest.AssemblyInfo.cs
+C:\Users\cgwhi\repos\GitPushTest\GitPushTest\obj\Debug\netcoreapp3.1\GitPushTest.csproj.CoreCompileInputs.cache
+C:\Users\cgwhi\repos\GitPushTest\GitPushTest\obj\Debug\netcoreapp3.1\GitPushTest.dll
+C:\Users\cgwhi\repos\GitPushTest\GitPushTest\obj\Debug\netcoreapp3.1\GitPushTest.pdb
+C:\Users\cgwhi\repos\GitPushTest\GitPushTest\obj\Debug\netcoreapp3.1\GitPushTest.genruntimeconfig.cache
